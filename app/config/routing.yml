@@ -90,6 +90,10 @@ puphpet.extension.mongodb:
     resource: "@PuphpetExtensionMongoDbBundle/Resources/config/routing.yml"
     prefix:   /extension/mongodb
 
+puphpet.extension.couchdb:
+    resource: "@PuphpetExtensionCouchDbBundle/Resources/config/routing.yml"
+    prefix:   /extension/couchdb
+
 puphpet.extension.beanstalkd:
     resource: "@PuphpetExtensionBeanstalkdBundle/Resources/config/routing.yml"
     prefix:   /extension/beanstalkd

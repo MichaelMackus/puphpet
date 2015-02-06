@@ -1,0 +1,4 @@
+services:
+#    puphpet_extension_couch_db.example:
+#        class: Puphpet\Extension\CouchDbBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
